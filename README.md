@@ -17,4 +17,4 @@ This repository is mainly for projects I have done under jupyter notebook. I am 
 
 * All the codes are written on Jupiter notebook. The python libraries include numpy, pandas, matplotlib and seaborn.
 
-# Project 3 :  Project 2: Data Analysis with No-show Movie appointments
+# Project 3 : Data Analysis with No-show Movie appointments
